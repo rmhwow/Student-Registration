@@ -31,6 +31,7 @@ public class Course
 	private int maxCapacity;
 	// Number of students enrolled in the course
 	private int classCount;
+	private int count = 0;
 
 	// The PriorityQueue structure
 	private PriorityQueue<Student> registrationQueue;
@@ -48,6 +49,11 @@ public class Course
 			classCount = 0;
 		}
 
+//	public void readQueue(){
+//		for(int i = 0; i < registrationQueue.size(); i++){
+//			System.out.println(registrationQueue.dequeue());
+//		}
+//	}
 	/**
 	 * Creates a new PriorityqueueItem - with appropriate priority(coins) and
 	 * this student in the item's queue. Add this item to the registrationQueue.
@@ -64,6 +70,7 @@ public class Course
 		// Enqueue a newly created PQItem.
 		PriorityQueueItem<Student> newStudent = 
 				new PriorityQueueItem<Student>(coins);
+		newStudent.getList().enqueue(student);
 		// Checking if a PriorityQueueItem with the same priority already exists
 		// is done in the enqueue method.
 		registrationQueue.enqueue(newStudent);
@@ -81,9 +88,11 @@ public class Course
 		// TODO : populate courseRoster from registrationQueue
 		// Use the PriorityQueueIterator for this task.
 		Iterator<PriorityQueueItem<Student>> itr =  registrationQueue.iterator();
-		while(itr.hasNext()){
-			if(!itr.next().getList().isEmpty()){
-				courseRoster.add((itr.next().getList().dequeue()));
+		while(itr.hasNext() && count < maxCapacity){
+			Queue<Student> queue = itr.next().getList();
+			while(!queue.isEmpty() && count < maxCapacity){
+				courseRoster.add((queue.dequeue()));
+				count++;
 			}
 		}
 

@@ -79,5 +79,9 @@ public class Student
 		{
 		myEnrolledCourses.add(course);
 		}
+	
+	public String toString() {
+		return name;
+	}
 
 	}

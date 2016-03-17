@@ -65,9 +65,11 @@ public class PriorityQueue<E> implements QueueADT<PriorityQueueItem<E>>
 	 * @param item
 	 *            object of type PriorityQueueItem<E>.
 	 */
+
 	@Override
 	public void enqueue(PriorityQueueItem<E> item)
 		{
+		boolean done = false;
 		if(item == null){
 			throw new IllegalArgumentException();
 		}	
@@ -78,23 +80,33 @@ public class PriorityQueue<E> implements QueueADT<PriorityQueueItem<E>>
 		
 		for(int i = 1; i <= currentSize; i++){
 			if(array[i].compareTo(item) == 0){
+				System.out.println("These are the same priority");
 				Queue<E> list = item.getList();
+				
 				while(!list.isEmpty()){
 					array[i].add(list.dequeue());
+					done = true;
 				
 				}
 			}
 		}
 		
 		// check it later
+		if(!done){
 				currentSize++;
 				array[currentSize] = item;
-				System.out.println("This is the array " + array[currentSize].getPriority());
-				percolateUp();
-
-			
+				percolateUp();	
+//				seeArray();
+		}
 		
 		}
+	private void seeArray(){
+		System.out.println("this is what's inside the array");
+		for (int i = 1; i <= currentSize; i++){
+			System.out.println(array[i].getPriority());
+		}
+	}
+	
 	private void percolateUp(){
 		int child = currentSize;
 		boolean done = false;

@@ -40,7 +40,14 @@ public class PriorityQueueItem<E> implements Comparable<PriorityQueueItem<E>>
 		{
 		return queue;
 		}
-
+	public String toString(){
+		String newString = " ";
+		while(!queue.isEmpty()){
+			 E student = queue.dequeue();
+			 newString+=student.toString()+" ";
+		}
+		return newString;
+	}
 	/**
 	 * Add an item to the queue of this PriorityQueueItem object
 	 * 

@@ -26,8 +26,7 @@ import java.util.Scanner;
  * @author CS367
  *
  */
-public class StudentCenter
-	{
+public class StudentCenter {
 	private static String studentName;
 	private static String studentId;
 	private static String StudentHeader;
@@ -37,26 +36,30 @@ public class StudentCenter
 	private static List<Course> courseList = new ArrayList<Course>();
 	private static List<Student> studentList = new ArrayList<Student>();
 
-	public static void main(String[] args)
-		{
-		if(args.length != 3)
-			{
-			System.err.println("Bad invocation! Correct usage: " + 
-			"java StudentCentre <StudentCourseData file>" + 
-					"<CourseRosters File> + <StudentCourseAssignments File>");
+	public static void main(String[] args) {
+		if (args.length != 3) {
+			System.err.println("Bad invocation! Correct usage: "
+					+ "java StudentCentre <StudentCourseData file>"
+					+ "<CourseRosters File> + <StudentCourseAssignments File>");
 			System.exit(1);
-			}
+		}
 
 		boolean didInitialize = readData(args[0]);
 
-		if(!didInitialize)
-			{
+		if (!didInitialize) {
 			System.err.println("Failed to initialize the application!");
 			System.exit(1);
-			}
+		}
 
 		generateAndWriteResults(args[1], args[2]);
-		}
+	}
+
+//	private static void readCourseList() {
+//		for (int i = 0; i < courseList.size(); i++) {
+//			System.out.println(courseList.get(i).getCourseName());
+//			courseList.get(i).readQueue();
+//		}
+//	}
 
 	/**
 	 * 
@@ -66,33 +69,31 @@ public class StudentCenter
 	 * @return true on success, false on failure.
 	 * 
 	 */
-	public static boolean readData(String fileName)
-	{
-		try
-		{
+	public static boolean readData(String fileName) {
+		try {
 			// make sure to call course.addStudent() appropriately.
 			boolean done = false;
 			String[] courses = null;
 			File importFile = new File(fileName);
 			Scanner filescnr = new Scanner(importFile);
-			
+
 			String inputLine = null;
 			if (filescnr.hasNextLine())
 				inputLine = filescnr.nextLine();
-			
-			while(inputLine != null && !done){
-//				System.out.println(inputLine);
-				if(inputLine.contains("#Points/Student")){
-					if (filescnr.hasNextLine()){
+
+			while (inputLine != null && !done) {
+				// System.out.println(inputLine);
+				if (inputLine.contains("#Points/Student")) {
+					if (filescnr.hasNextLine()) {
 						inputLine = filescnr.nextLine();
 						StudentHeader = inputLine.trim();
 					}
 					inputLine = filescnr.nextLine();
 					continue;
 				}
-				if(inputLine.contains("#Courses") && !done){
+				if (inputLine.contains("#Courses") && !done) {
 					String line = filescnr.nextLine();
-					while (!line.contains("#Student")){
+					while (!line.contains("#Student")) {
 						String secondCourse = line.trim();
 						String[] courseInfo = secondCourse.split(" ");
 						Course newSecondCourse = new Course(courseInfo[0],
@@ -100,60 +101,81 @@ public class StudentCenter
 						courseList.add(newSecondCourse);
 						line = filescnr.nextLine();
 					}
-						inputLine = line;
-						continue;
+					inputLine = line;
+					continue;
 
-					
 				}
-				if(inputLine.contains("#Student") ){
+				if (inputLine.contains("#Student")) {
 					inputLine = filescnr.nextLine().trim();
-					while(!inputLine.contains("#Student") && !done){
-						if(inputLine.charAt(0) >='A' && inputLine.charAt(0) <= 'Z' && inputLine.charAt(1) != 'S'){
-								studentName = inputLine;
-						}if(inputLine.charAt(0) >='0' && inputLine.charAt(0) <= '9'){
-								studentId = inputLine;
+					Student newStudent = null;
+					while (!inputLine.contains("#Student") && !done) {
+						
+						if (inputLine.charAt(0) >= 'A'
+								&& inputLine.charAt(0) <= 'Z'
+								&& inputLine.charAt(1) != 'S') {
+							studentName = inputLine;
 						}
-						if(inputLine.charAt(0) == 'C' && inputLine.charAt(1) == 'S'){
-							 courses = inputLine.split(" ");
-						}
-						if(studentName != null && studentId != null){
-							newStudent = new Student(studentName, 
-								studentId, Integer.parseInt(StudentHeader));
-							System.out.println(newStudent.getName() + " " + newStudent.getid());
-						}
-						if(courses != null && newStudent != null){
-							for(int i = 0; i < courseList.size(); i++){
-								if(courseList.get(i).getCourseCode().equals(courses[0])){
-									newStudent.addToCart(courseList.get(i));
-//									System.err.println(newStudent);
-									courseList.get(i).addStudent(newStudent, Integer.parseInt(courses[1]));
-								}
-							}
+						if (inputLine.charAt(0) >= '0'
+								&& inputLine.charAt(0) <= '9') {
+							studentId = inputLine;
+							newStudent = new Student(studentName, studentId,
+									Integer.parseInt(StudentHeader));
+							System.out.println(newStudent.getName() + " "
+									+ newStudent.getid() + " "
+									+ newStudent.getEnrolledCourses());
 						}
 						
-						if(filescnr.hasNextLine()){
+
+						if (inputLine.charAt(0) == 'C'
+								&& inputLine.charAt(1) == 'S') {
+							courses = inputLine.split(" ");
+							if (courses != null) {
+								for (int i = 0; i < courseList.size(); i++) {
+									if (courseList.get(i).getCourseCode()
+											.equals(courses[0])) {
+										System.out.println("courseList "
+												+ courseList.get(i)
+														.getCourseCode()
+												+ " equals " + courses[0]);
+										newStudent.addToCart(courseList.get(i));
+										courseList.get(i).addStudent(
+												newStudent,
+												Integer.parseInt(courses[1]));
+									}
+
+								}
+
+							}
+
+							
+						}
+						if (filescnr.hasNextLine()) {
 							inputLine = filescnr.nextLine().trim();
-						} else{
+						} else {
 							done = true;
 							break;
 						}
+
 					}
+					studentList.add(newStudent);
+
 					studentName = null;
 					studentId = null;
 					newStudent = null;
+					courses = null;
 					continue;
 				}
-				if(filescnr.hasNextLine()){
+				if (filescnr.hasNextLine()) {
 					inputLine = filescnr.nextLine();
-				}else{
+				} else {
 					done = true;
 				}
 			}
 			filescnr.close();
+//			readCourseList();
 		}
 
-		catch(Exception e)
-		{
+		catch (Exception e) {
 			e.printStackTrace();
 			System.out.println("File Parse Error");
 			return false;
@@ -168,51 +190,48 @@ public class StudentCenter
 	 * @param fileName2
 	 *            - output file with a line for each student
 	 */
-	public static void generateAndWriteResults(String fileName1, String fileName2)
-		{
-		try
-			{
+	public static void generateAndWriteResults(String fileName1,
+			String fileName2) {
+		try {
 			// List Students enrolled in each course
 			PrintWriter writer = new PrintWriter(new File(fileName1));
-			for (Course c : courseList)
-				{
-				writer.println("-----" + c.getCourseCode() + " " + c.getCourseName() + "-----");
+			for (Course c : courseList) {
+				writer.println("-----" + c.getCourseCode() + " "
+						+ c.getCourseName() + "-----");
 
 				// Core functionality
 				c.processRegistrationList();
 
 				// List students enrolled in each course
 				int count = 1;
-				for (Student s : c.getCourseRegister())
-					{
-					writer.println(count + ". " + s.getid() + "\t" + s.getName());
+				for (Student s : c.getCourseRegister()) {
+					writer.println(count + ". " + s.getid() + "\t"
+							+ s.getName());
 					s.enrollCourse(c);
 					count++;
-					}
-				writer.println();
 				}
+				writer.println();
+			}
 			writer.close();
 
 			// List courses each student gets
 			writer = new PrintWriter(new File(fileName2));
-			for (Student s : studentList)
-				{
-				writer.println("-----" + s.getid() + " " + s.getName() + "-----");
+			for (Student s : studentList) {
+				writer.println("-----" + s.getid() + " " + s.getName()
+						+ "-----");
 				int count = 1;
-				for (Course c : s.getEnrolledCourses())
-					{
-					writer.println(count + ". " + c.getCourseCode() + "\t" + c.getCourseName());
+				for (Course c : s.getEnrolledCourses()) {
+					writer.println(count + ". " + c.getCourseCode() + "\t"
+							+ c.getCourseName());
 					count++;
-					}
-				writer.println();
 				}
+				writer.println();
+			}
 			writer.close();
-			}
-		catch(FileNotFoundException e)
-			{
+		} catch (FileNotFoundException e) {
 			e.printStackTrace();
-			}
 		}
+	}
 
 	/**
 	 * Look up Course from classCode
@@ -220,15 +239,12 @@ public class StudentCenter
 	 * @param courseCode
 	 * @return Course object
 	 */
-	private static Course getCourseFromCourseList(String courseCode)
-		{
-		for (Course c : courseList)
-			{
-			if(c.getCourseCode().equals(courseCode))
-				{
+	private static Course getCourseFromCourseList(String courseCode) {
+		for (Course c : courseList) {
+			if (c.getCourseCode().equals(courseCode)) {
 				return c;
-				}
 			}
-		return null;
 		}
+		return null;
 	}
+}
