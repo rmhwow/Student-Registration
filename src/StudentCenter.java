@@ -54,12 +54,7 @@ public class StudentCenter {
 		generateAndWriteResults(args[1], args[2]);
 	}
 
-//	private static void readCourseList() {
-//		for (int i = 0; i < courseList.size(); i++) {
-//			System.out.println(courseList.get(i).getCourseName());
-//			courseList.get(i).readQueue();
-//		}
-//	}
+
 
 	/**
 	 * 
@@ -120,9 +115,6 @@ public class StudentCenter {
 							studentId = inputLine;
 							newStudent = new Student(studentName, studentId,
 									Integer.parseInt(StudentHeader));
-							System.out.println(newStudent.getName() + " "
-									+ newStudent.getid() + " "
-									+ newStudent.getEnrolledCourses());
 						}
 						
 
@@ -133,10 +125,6 @@ public class StudentCenter {
 								for (int i = 0; i < courseList.size(); i++) {
 									if (courseList.get(i).getCourseCode()
 											.equals(courses[0])) {
-										System.out.println("courseList "
-												+ courseList.get(i)
-														.getCourseCode()
-												+ " equals " + courses[0]);
 										newStudent.addToCart(courseList.get(i));
 										courseList.get(i).addStudent(
 												newStudent,
@@ -172,7 +160,6 @@ public class StudentCenter {
 				}
 			}
 			filescnr.close();
-//			readCourseList();
 		}
 
 		catch (Exception e) {

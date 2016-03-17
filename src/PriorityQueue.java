@@ -80,13 +80,11 @@ public class PriorityQueue<E> implements QueueADT<PriorityQueueItem<E>>
 		
 		for(int i = 1; i <= currentSize; i++){
 			if(array[i].compareTo(item) == 0){
-				System.out.println("These are the same priority");
 				Queue<E> list = item.getList();
 				
 				while(!list.isEmpty()){
 					array[i].add(list.dequeue());
 					done = true;
-				
 				}
 			}
 		}
@@ -96,16 +94,10 @@ public class PriorityQueue<E> implements QueueADT<PriorityQueueItem<E>>
 				currentSize++;
 				array[currentSize] = item;
 				percolateUp();	
-//				seeArray();
 		}
 		
 		}
-	private void seeArray(){
-		System.out.println("this is what's inside the array");
-		for (int i = 1; i <= currentSize; i++){
-			System.out.println(array[i].getPriority());
-		}
-	}
+
 	
 	private void percolateUp(){
 		int child = currentSize;
@@ -181,9 +173,9 @@ public class PriorityQueue<E> implements QueueADT<PriorityQueueItem<E>>
 //		this might have to be currentSize -1 or +1
 		// Replace with last element, percolate down
 		array[1] = array[currentSize];
-		percolateDown(1);
+//		percolateDown(1);
 //		am I supposed to be using buildHeap? 
-//		buildHeap();
+		buildHeap();
 		currentSize--;
 		return temp;
 		}
