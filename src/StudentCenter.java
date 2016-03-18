@@ -66,69 +66,100 @@ public class StudentCenter {
 	 */
 	public static boolean readData(String fileName) {
 		try {
-			// make sure to call course.addStudent() appropriately.
-			boolean done = false;
+			//create a boolean for while loops			
+			boolean done = false;			
 			String[] courses = null;
+			//initialize the file			
 			File importFile = new File(fileName);
 			Scanner filescnr = new Scanner(importFile);
 
 			String inputLine = null;
+			//if the scanner has a next line, assign it to a variable before
+			//the while loop begins			
 			if (filescnr.hasNextLine())
 				inputLine = filescnr.nextLine();
-
+			//read each line from the file until there aren't any more lines
 			while (inputLine != null && !done) {
-				// System.out.println(inputLine);
+				//if the line has the header points/students				
 				if (inputLine.contains("#Points/Student")) {
+					//make sure there's a next line					
 					if (filescnr.hasNextLine()) {
+						//assign that line to the variable inputLine						
 						inputLine = filescnr.nextLine();
+						//assign the number to a variable to instantiate student						
 						StudentHeader = inputLine.trim();
 					}
+					//assign the next line to my variable					
 					inputLine = filescnr.nextLine();
+					//go back to the top of the while loop					
 					continue;
 				}
+				//if the line is the header and the boolean is false				
 				if (inputLine.contains("#Courses") && !done) {
+					//grab the next line, the start of a student				
 					String line = filescnr.nextLine();
+					//while that line doesn't contain the next header					
 					while (!line.contains("#Student")) {
+						//assign the course to a variable & take out space						
 						String secondCourse = line.trim();
+						//split the course string						
 						String[] courseInfo = secondCourse.split(" ");
+						//create a new course object						
 						Course newSecondCourse = new Course(courseInfo[0],
 								courseInfo[1], Integer.parseInt(courseInfo[2]));
+						//add the course to the course list						
 						courseList.add(newSecondCourse);
+						//grab the next line						
 						line = filescnr.nextLine();
 					}
+					//assign the line variable to input line					
 					inputLine = line;
+					//go back to the top of the while loop										
 					continue;
 
 				}
+				//if the line is the header				
 				if (inputLine.contains("#Student")) {
+					//assign the input to the next line with no space					
 					inputLine = filescnr.nextLine().trim();
+					//make sure the student object is cleared					
 					Student newStudent = null;
+					//while the iteration doesn't have the next header					
 					while (!inputLine.contains("#Student") && !done) {
-						
+						//if the line is a name, assign to a name variable						
 						if (inputLine.charAt(0) >= 'A'
 								&& inputLine.charAt(0) <= 'Z'
 								&& inputLine.charAt(1) != 'S') {
 							studentName = inputLine;
 						}
+						//if the line is a number, assign it to an ID						
 						if (inputLine.charAt(0) >= '0'
 								&& inputLine.charAt(0) <= '9') {
 							studentId = inputLine;
 							newStudent = new Student(studentName, studentId,
 									Integer.parseInt(StudentHeader));
 						}
-						
-
+						//if the line starts with CS assign it to a course
 						if (inputLine.charAt(0) == 'C'
 								&& inputLine.charAt(1) == 'S') {
 							courses = inputLine.split(" ");
+							//if there is a course							
 							if (courses != null) {
+								//iterate through the course list								
 								for (int i = 0; i < courseList.size(); i++) {
+									//if the course code matches the course 
+									//course code									
 									if (courseList.get(i).getCourseCode()
 											.equals(courses[0])) {
+										//add the course to the student and add
+										//the student to the course										
 										newStudent.addToCart(courseList.get(i));
-										courseList.get(i).addStudent(
+										if(newStudent.deductCoins(Integer.parseInt(courses[1]))){
+											courseList.get(i).addStudent(
 												newStudent,
 												Integer.parseInt(courses[1]));
+										}
+										break;
 									}
 
 								}
@@ -137,28 +168,37 @@ public class StudentCenter {
 
 							
 						}
+						//if the scanner has a next line, assign variable						
 						if (filescnr.hasNextLine()) {
 							inputLine = filescnr.nextLine().trim();
-						} else {
+						}
+						//if there is not another line, assign done to true						
+						else {
 							done = true;
+							//end student loop							
 							break;
 						}
 
 					}
+					//add student to student list					
 					studentList.add(newStudent);
-
+					//clear all variables
 					studentName = null;
 					studentId = null;
-					newStudent = null;
 					courses = null;
+					//continue with large loop					
 					continue;
 				}
+				//if the scanner has another line, assign the next line to a var				
 				if (filescnr.hasNextLine()) {
 					inputLine = filescnr.nextLine();
-				} else {
+				}
+				//otherwise assign done to true to end the loop				
+				else {
 					done = true;
 				}
 			}
+			//close the scanner			
 			filescnr.close();
 		}
 

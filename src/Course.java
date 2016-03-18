@@ -70,12 +70,13 @@ public class Course
 		// Enqueue a newly created PQItem.
 		PriorityQueueItem<Student> newStudent = 
 				new PriorityQueueItem<Student>(coins);
+		//assign the student object to the queue of the newStudent Item		
 		newStudent.getList().enqueue(student);
 		// Checking if a PriorityQueueItem with the same priority already exists
 		// is done in the enqueue method.
+		//add the new student to the registration queue		
 		registrationQueue.enqueue(newStudent);
-
-		// TODO : see function header
+		//increase the class count
 		classCount++;
 		}
 
@@ -85,13 +86,18 @@ public class Course
 	 */
 	public void processRegistrationList()
 		{
-		// TODO : populate courseRoster from registrationQueue
-		// Use the PriorityQueueIterator for this task.
+		//create an iterator		
 		Iterator<PriorityQueueItem<Student>> itr =  registrationQueue.iterator();
+		//while there's a next position and the count is less than the capacity
+		//of students allowed		
 		while(itr.hasNext() && count < maxCapacity){
+			//assign the iterator's queue to a variable			
 			Queue<Student> queue = itr.next().getList();
+			//while that queue isn't empty and the count is less than capacity			
 			while(!queue.isEmpty() && count < maxCapacity){
+				//add the information to the course roster				
 				courseRoster.add((queue.dequeue()));
+				//increase the count of students				
 				count++;
 			}
 		}
