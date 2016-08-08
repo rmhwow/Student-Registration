@@ -1,70 +1,729 @@
+-----CS202 Introduction_to_Computation-----
+1. 101951689	Craig Cashman
+
+-----CS240 Introduction_to_Discrete_Mathematics-----
+1. 101220486	Randall Hyde
+
+-----CS250 Digital_Society:_The_Impact_of_Computers_and_Computer_Technology-----
+1. 101951689	Craig Cashman
+2. 100294752	Awilda Rumore
+3. 100305535	Ressie Mcquillan
+4. 101600702	Harry Wall
+
+-----CS252 Introduction_to_Computer_Engineering-----
+1. 100445471	Laquita Freedman
+2. 101564229	Temple Eidt
+3. 100153088	Arla Hauptman
+4. 101763383	Lina Graziani
+5. 100512253	Janay Smitherman
+6. 101162421	Nu Dobyns
+
+-----CS270 Fundamentals_of_Human-Computer_Interaction-----
+1. 101100609	Hai Salem
+2. 101208270	Dick Speakman
+
+-----CS298 Directed_Study_in_Computer_Science-----
+1. 100633885	Jada Sabala
+2. 100608301	Augustus Brandon
+
 -----CS301 Introduction_to_Data_Programming-----
+1. 100026593	Candance Minier
+2. 100924197	Lelia Carrales
+3. 101649081	Foster Bryne
+4. 101182236	Lorinda Powell
+5. 100489697	Caren Batista
 
 -----CS302 Introduction_to_Programming-----
-1. 100419185	Isabella Schrick
-2. 100034058	Yasmin Tinnin
-3. 100834451	Loren Jayne
-4. 100383243	Caren Batista
-5. 101101967	Nella Marlow
-6. 101567904	Lorina Rosamond
-7. 100331071	Harold Charpentier
-8. 100615393	Harry Wall
-9. 100544691	Arturo Schrader
-10. 100986579	Ursula Piotrowski
-11. 101511131	Sonny Beamon
-12. 100687484	Justina Brunell
-13. 101443621	Leanne Ackermann
-14. 101554327	Orville Gay
+1. 101928020	Natosha Trapani
+2. 100732325	Adela Sheehy
+3. 101135697	Lance Lawrie
+4. 101597757	Yajaira Gerstner
+5. 101388914	Nella Marlow
 
 -----CS304 WES-CS_Group_Meeting-----
-1. 101443621	Leanne Ackermann
-2. 101554327	Orville Gay
-3. 101511131	Sonny Beamon
-4. 100615393	Harry Wall
-5. 101567904	Lorina Rosamond
-6. 100687484	Justina Brunell
-7. 100544691	Arturo Schrader
-8. 100986579	Ursula Piotrowski
-9. 101101967	Nella Marlow
-10. 100419185	Isabella Schrick
-11. 100034058	Yasmin Tinnin
-12. 100331071	Harold Charpentier
-13. 100834451	Loren Jayne
+1. 101424296	Anastacia Bergen
+2. 100883322	Salome Mcconnell
+3. 101906468	Lucienne Raposo
+4. 101135697	Lance Lawrie
+5. 100353788	Alisa Vogel
+6. 100721849	Waylon Moctezuma
 
 -----CS310 Problem_Solving_using_Computers-----
-1. 100687484	Justina Brunell
-2. 100331071	Harold Charpentier
-3. 100986579	Ursula Piotrowski
-4. 101554327	Orville Gay
-5. 101101967	Nella Marlow
-6. 101567904	Lorina Rosamond
-7. 100834451	Loren Jayne
-8. 100034058	Yasmin Tinnin
-9. 100544691	Arturo Schrader
+1. 100859562	Loren Jayne
+2. 100300075	Kandy Sick
+3. 101161816	Rosanne Semien
+4. 101310464	Eric Notaro
+5. 100918772	Harold Charpentier
 
 -----CS352 Digital_Systems_Fundamentals-----
-1. 101554327	Orville Gay
-2. 101567904	Lorina Rosamond
-3. 100986579	Ursula Piotrowski
-4. 100331071	Harold Charpentier
-5. 100687484	Justina Brunell
-6. 101101967	Nella Marlow
-7. 100034058	Yasmin Tinnin
-8. 100834451	Loren Jayne
+1. 101602270	Pauline Brittian
+2. 101807147	Pearle Mendieta
+3. 100161401	Deangelo Mullikin
+4. 100596926	Donna Cazarez
+5. 100803370	Ebony Triana
+6. 100445471	Laquita Freedman
 
 -----CS354 Machine_Organization_and_Programming-----
-1. 100986579	Ursula Piotrowski
-2. 101554327	Orville Gay
-3. 100834451	Loren Jayne
+1. 100641033	Tatum Brooker
+2. 100883322	Salome Mcconnell
+3. 100793369	Freddy Marden
+4. 101199932	Maxie Stolp
+5. 100913044	Melaine Messick
+6. 101462529	Annamaria Capra
+7. 101368526	Fatima Chiasson
 
 -----CS367 Introduction_to_Data_Structures-----
-1. 101554327	Orville Gay
-2. 100834451	Loren Jayne
-3. 100986579	Ursula Piotrowski
+1. 100913044	Melaine Messick
+2. 101097819	Macie Blanche
+3. 101617427	Florance Covin
+4. 101711162	King Siegler
+5. 101445459	Candy Bowyer
+6. 100153088	Arla Hauptman
 
 -----CS368 Learning_a_New_Programming_Language-----
+1. 101132668	Magan Harless
 
 -----CS369 Web_Programming-----
+1. 100950935	Teisha Nevius
+2. 101220486	Randall Hyde
+3. 101965300	Antone Bruggeman
+4. 100936879	Roxann Lavender
 
 -----CS371 Technology_of_Computer-Based_Business_Systems-----
+1. 101681473	Lettie Searfoss
+2. 101597757	Yajaira Gerstner
+3. 100425772	Annalee Whitten
+4. 101951689	Craig Cashman
+
+-----CS402 Introducing_Computer_Science_to_K-12_Students-----
+1. 101286231	Shena Philipps
+2. 100663044	Brant Buchholtz
+3. 101310464	Eric Notaro
+
+-----CS407 Foundations_of_Mobile_Systems_and_Applications-----
+1. 100153088	Arla Hauptman
+2. 100793369	Freddy Marden
+3. 100277059	Abbey Saez
+4. 100452307	Raguel Baltimore
+5. 100936879	Roxann Lavender
+6. 100046484	Alane Brogden
+7. 101242025	Raylene Adams
+
+-----CS412 Introduction_to_Numerical_Methods-----
+1. 101380878	Marybeth Gahagan
+2. 100700425	Kyla Kingrey
+
+-----CS416 Foundations_of_Scientific_Computing-----
+
+-----CS425 Introduction_to_Combinatorial_Optimization-----
+1. 101552552	Stephani Monzon
+2. 101617427	Florance Covin
+3. 100102150	Erwin Goupil
+4. 101856855	Kristopher Heavner
+5. 100422871	Carolann Delisle
+6. 101600702	Harry Wall
+
+-----CS435 Introduction_to_Cryptography-----
+1. 100641033	Tatum Brooker
+2. 100425772	Annalee Whitten
+3. 101602270	Pauline Brittian
+
+-----CS471 Introduction_to_Computational_Statistics-----
+1. 101711162	King Siegler
+2. 101280873	Hong Aarons
+
+-----CS475 Introduction_to_Combinatorics-----
+1. 100604856	Hulda Schunk
+2. 101290722	Yasmin Tinnin
+3. 100816823	Jeannine Koehl
+4. 100807673	Meaghan Babineaux
+
+-----CS506 Software_Engineering-----
+1. 101182236	Lorinda Powell
+2. 100480879	Justina Brunell
+3. 101402243	Essie Tell
+4. 100913044	Melaine Messick
+
+-----CS513 Numerical_Linear_Algebra-----
+1. 100049450	Alejandrina Berkowitz
+2. 101220486	Randall Hyde
+3. 101280873	Hong Aarons
+4. 101368526	Fatima Chiasson
+
+-----CS514 Numerical_Analysis-----
+1. 100449932	Venice Mahan
+2. 101248030	Melba Montejano
+3. 100608301	Augustus Brandon
+
+-----CS515 Introduction_to_Splines_and_Wavelets-----
+1. 100732325	Adela Sheehy
+2. 100445471	Laquita Freedman
+
+-----CS520 Introduction_to_Theory_of_Computing-----
+1. 100995443	Leann Maloney
+2. 100376535	Leanne Ackermann
+3. 101564229	Temple Eidt
+4. 101906468	Lucienne Raposo
+5. 100883322	Salome Mcconnell
+
+-----CS524 Introduction_to_Optimization-----
+1. 101462529	Annamaria Capra
+2. 100796321	Ashlee Cothern
+
+-----CS525 Linear_Programming_Methods-----
+1. 101565301	Sun Jester
+2. 100493286	Lorina Rosamond
+3. 100559875	Raeann Arai
+4. 101711162	King Siegler
+5. 100300075	Kandy Sick
+6. 101993173	Inge Tolleson
+7. 100596926	Donna Cazarez
+8. 100017306	Frances Dotson
+
+-----CS526 Advanced_Linear_Programming-----
+1. 101993173	Inge Tolleson
+2. 101565301	Sun Jester
+
+-----CS532 Theory_and_Applications_of_Pattern_Recognition-----
+1. 101242025	Raylene Adams
+2. 100884068	Cecile Bourget
+3. 101248030	Melba Montejano
+4. 100422871	Carolann Delisle
+5. 101119458	Efrain Quesinberry
+6. 100102150	Erwin Goupil
+7. 100604856	Hulda Schunk
+
+-----CS533 Image_Processing-----
+1. 100807673	Meaghan Babineaux
+2. 101029124	Arturo Schrader
+3. 101600702	Harry Wall
+4. 101161816	Rosanne Semien
+5. 101856855	Kristopher Heavner
+6. 101602270	Pauline Brittian
+7. 101993173	Inge Tolleson
+
+-----CS534 Computational_Photography-----
+1. 100277059	Abbey Saez
+2. 101290722	Yasmin Tinnin
+3. 101380878	Marybeth Gahagan
+4. 100700457	Chante Dubiel
+5. 100404580	Dortha Trimmer
+
+-----CS536 Introduction_to_Programming_Languages_and_Compilers-----
+1. 101807147	Pearle Mendieta
+2. 101310464	Eric Notaro
+3. 100512253	Janay Smitherman
+4. 101602270	Pauline Brittian
+5. 100161401	Deangelo Mullikin
+6. 101388914	Nella Marlow
+7. 100625970	Trenton Wagers
+8. 101951689	Craig Cashman
+9. 101495102	Johnna Beecroft
+
+-----CS537 Introduction_to_Operating_Systems-----
+1. 100452307	Raguel Baltimore
+2. 101286231	Shena Philipps
+3. 101368526	Fatima Chiasson
+4. 101928020	Natosha Trapani
+5. 101199932	Maxie Stolp
+
+-----CS538 Introduction_to_the_Theory_and_Design_of_Programming_Languages-----
+
+-----CS539 Introduction_to_Artificial_Neural_Networks_and_Fuzzy_Systems-----
+1. 101602270	Pauline Brittian
+2. 101171754	Ursula Piotrowski
+3. 101353321	Alba Messer
+
+-----CS540 Introduction_to_Artificial_Intelligence-----
+1. 101135697	Lance Lawrie
+2. 100559875	Raeann Arai
+3. 101618499	Franchesca Cofer
+4. 100721849	Waylon Moctezuma
+
+-----CS545 Natural_Language_and_the_Computer-----
+1. 101162421	Nu Dobyns
+2. 101171754	Ursula Piotrowski
+3. 100641033	Tatum Brooker
+4. 101368526	Fatima Chiasson
+
+-----CS547 Computer_Systems_Modeling_Fundamentals-----
+1. 101162421	Nu Dobyns
+2. 101368526	Fatima Chiasson
+3. 101389984	Orville Gay
+4. 101597757	Yajaira Gerstner
+
+-----CS552 Introduction_to_Computer_Architecture-----
+1. 100404580	Dortha Trimmer
+2. 101353321	Alba Messer
+3. 100017306	Frances Dotson
+4. 101552552	Stephani Monzon
+5. 100663044	Brant Buchholtz
+
+-----CS558 Introduction_to_Computational_Geometry-----
+1. 101353321	Alba Messer
+2. 101495102	Johnna Beecroft
+3. 100376535	Leanne Ackermann
+4. 100700425	Kyla Kingrey
+5. 100381204	Lionel Bailer
+
+-----CS559 Computer_Graphics-----
+1. 101763383	Lina Graziani
+2. 101519965	Valene Hazzard
+3. 100012668	Antony Eckard
+4. 100796321	Ashlee Cothern
+
+-----CS564 Database_Management_Systems:_Design_and_Implementation-----
+1. 100300075	Kandy Sick
+2. 101100609	Hai Salem
+3. 100489697	Caren Batista
+4. 100950935	Teisha Nevius
+
+-----CS567 Medical_Image_Analysis-----
+1. 100102150	Erwin Goupil
+2. 101565301	Sun Jester
+3. 100663044	Brant Buchholtz
+
+-----CS570 Introduction_to_Human-Computer_Interaction-----
+1. 100987752	Kathrine Gearheart
+2. 100987668	Liana Maloney
+3. 100700425	Kyla Kingrey
+4. 100700457	Chante Dubiel
+5. 100422871	Carolann Delisle
+6. 101097819	Macie Blanche
+7. 100796321	Ashlee Cothern
+
+-----CS576 Introduction_to_Bioinformatics-----
+1. 101445459	Candy Bowyer
+2. 100995443	Leann Maloney
+3. 100146325	Vickey Chesley
+4. 100046484	Alane Brogden
+5. 100641033	Tatum Brooker
+
+-----CS577 Introduction_to_Algorithms-----
+1. 101617427	Florance Covin
+2. 101182236	Lorinda Powell
+
+-----CS578 Contest-Level_Programming-----
+1. 100433819	Bridgette Talley
+2. 101899547	Louetta Daw
+3. 101368526	Fatima Chiasson
+
+-----CS635 Tools_and_Environments_for_Optimization-----
+1. 100017306	Frances Dotson
+2. 100049450	Alejandrina Berkowitz
+3. 100102150	Erwin Goupil
+4. 101366400	Shonda Giancola
+5. 101162421	Nu Dobyns
+6. 101445459	Candy Bowyer
+7. 101618499	Franchesca Cofer
+8. 100146325	Vickey Chesley
+
+-----CS638 Undergraduate_Topics_in_Computing-----
+1. 100445471	Laquita Freedman
+2. 100700425	Kyla Kingrey
+3. 101965300	Antone Bruggeman
+4. 101763383	Lina Graziani
+
+-----CS640 Introduction_to_Computer_Networks-----
+1. 100816823	Jeannine Koehl
+2. 100489697	Caren Batista
+3. 100381204	Lionel Bailer
+4. 101521796	Cleveland Getman
+
+-----CS642 Introduction_to_Information_Security-----
+1. 101132668	Magan Harless
+2. 101597757	Yajaira Gerstner
+3. 100381204	Lionel Bailer
+
+-----CS679 Computer_Game_Technology-----
+1. 100531148	Carmela Taing
+2. 101965300	Antone Bruggeman
+3. 100559875	Raeann Arai
+
+-----CS681 Senior_Honors_Thesis_(681)-----
+1. 101310464	Eric Notaro
+2. 100987668	Liana Maloney
+3. 100046484	Alane Brogden
+
+-----CS682 Senior_Honors_Thesis_(682)-----
+1. 101161816	Rosanne Semien
+2. 101600702	Harry Wall
+
+-----CS691 Senior_Thesis_(691)-----
+1. 101711162	King Siegler
+2. 101389984	Orville Gay
+3. 100663044	Brant Buchholtz
+4. 100294752	Awilda Rumore
+5. 101402264	Fredricka Kwiecien
+
+-----CS692 Senior_Thesis_(692)-----
+1. 101199932	Maxie Stolp
+2. 101993173	Inge Tolleson
+3. 100732325	Adela Sheehy
+4. 100918772	Harold Charpentier
+5. 100480879	Justina Brunell
+6. 101389984	Orville Gay
+
+-----CS699 Directed_Study-----
+1. 100489697	Caren Batista
+2. 101462529	Annamaria Capra
+3. 101029124	Arturo Schrader
+4. 101097819	Macie Blanche
+5. 101220486	Randall Hyde
+
+-----CS701 Programming_Languages_and_Compilers-----
+1. 101324074	Isabella Schrick
+2. 100404580	Dortha Trimmer
+
+-----CS703 Advanced_Topics_in_Programming_Languages_and_Compilers-----
+1. 101899547	Louetta Daw
+2. 101280873	Hong Aarons
+3. 100559875	Raeann Arai
+4. 100449932	Venice Mahan
+5. 100046484	Alane Brogden
+
+-----CS704 Principles_of_Programming_Languages-----
+1. 100017306	Frances Dotson
+2. 100803370	Ebony Triana
+3. 100806418	Sha Syring
+4. 100796321	Ashlee Cothern
+5. 100404580	Dortha Trimmer
+6. 100700457	Chante Dubiel
+
+-----CS706 Analysis_of_Software_Artifacts-----
+
+-----CS707 Mobile_and_Wireless_Networking-----
+1. 100700425	Kyla Kingrey
+2. 100161401	Deangelo Mullikin
+3. 101457251	Maxima Chadburn
+
+-----CS710 Computational_Complexity-----
+1. 100918772	Harold Charpentier
+2. 100924197	Lelia Carrales
+
+-----CS714 Methods_of_Computational_Mathematics_I-----
+1. 101248030	Melba Montejano
+2. 100884068	Cecile Bourget
+3. 101899547	Louetta Daw
+
+-----CS715 Methods_of_Computational_Mathematics_II-----
+1. 101552032	Qiana Zorn
+2. 100012668	Antony Eckard
+3. 101965300	Antone Bruggeman
+4. 100608301	Augustus Brandon
+5. 101220486	Randall Hyde
+6. 100017306	Frances Dotson
+
+-----CS717 Numerical_Functional_Analysis-----
+1. 101324074	Isabella Schrick
+2. 101366400	Shonda Giancola
+
+-----CS719 Stochastic_Programming-----
+1. 100859562	Loren Jayne
+2. 101424296	Anastacia Bergen
+3. 100012668	Antony Eckard
+4. 101209080	Pam Spindler
+5. 101242025	Raylene Adams
+6. 101171754	Ursula Piotrowski
+7. 100793369	Freddy Marden
+
+-----CS720 Integer_Programming-----
+1. 101389984	Orville Gay
+2. 100422871	Carolann Delisle
+3. 101208270	Dick Speakman
+4. 101993173	Inge Tolleson
+5. 101097819	Macie Blanche
+6. 100480879	Justina Brunell
+
+-----CS723 Dynamic_Programming_and_Associated_Topics-----
+1. 100026593	Candance Minier
+2. 101424296	Anastacia Bergen
+3. 100721849	Waylon Moctezuma
+4. 101519965	Valene Hazzard
+5. 100531148	Carmela Taing
+
+-----CS726 Nonlinear_Optimization_I-----
+1. 101388914	Nella Marlow
+2. 100987752	Kathrine Gearheart
+3. 100012668	Antony Eckard
+4. 101402243	Essie Tell
+5. 101462529	Annamaria Capra
+6. 101119458	Efrain Quesinberry
+
+-----CS727 Convex_Analysis-----
+1. 101600702	Harry Wall
+2. 100596926	Donna Cazarez
+3. 101899547	Louetta Daw
+4. 100987668	Liana Maloney
+5. 100608301	Augustus Brandon
+6. 101552032	Qiana Zorn
+7. 101928020	Natosha Trapani
+8. 100146325	Vickey Chesley
+
+-----CS728 Integer_Optimization-----
+1. 100924197	Lelia Carrales
+2. 100816823	Jeannine Koehl
+
+-----CS730 Nonlinear_Optimization_II-----
+1. 100049450	Alejandrina Berkowitz
+2. 101552552	Stephani Monzon
+3. 100995443	Leann Maloney
+
+-----CS731 Advanced_Artificial_Intelligence-----
+1. 101618499	Franchesca Cofer
+2. 100493286	Lorina Rosamond
+3. 100596926	Donna Cazarez
+4. 100924197	Lelia Carrales
+5. 101119458	Efrain Quesinberry
+
+-----CS733 Computational_Methods_for_Large_Sparse_Systems-----
+1. 101495102	Johnna Beecroft
+2. 100425772	Annalee Whitten
+3. 101366400	Shonda Giancola
+4. 100816823	Jeannine Koehl
+5. 101911659	Lorie Lamarche
+6. 101445459	Candy Bowyer
+7. 100353788	Alisa Vogel
+8. 101993173	Inge Tolleson
+
+-----CS736 Advanced_Operating_Systems-----
+1. 101380878	Marybeth Gahagan
+2. 100512253	Janay Smitherman
+
+-----CS737 Computer_System_Performance_Evaluation_and_Modeling-----
+1. 101911659	Lorie Lamarche
+2. 100353788	Alisa Vogel
+3. 101552032	Qiana Zorn
+4. 101100609	Hai Salem
+5. 100433819	Bridgette Talley
+6. 100884068	Cecile Bourget
+7. 100608301	Augustus Brandon
+8. 101564229	Temple Eidt
+9. 100161401	Deangelo Mullikin
+10. 101290722	Yasmin Tinnin
+11. 100859562	Loren Jayne
+12. 101097819	Macie Blanche
+
+-----CS739 Distributed_Systems-----
+1. 100146325	Vickey Chesley
+2. 101135697	Lance Lawrie
+
+-----CS740 Advanced_Computer_Networks-----
+1. 100883322	Salome Mcconnell
+2. 100146325	Vickey Chesley
+3. 100950935	Teisha Nevius
+4. 101020498	Marybelle Reny
+5. 101171754	Ursula Piotrowski
+
+-----CS747 Advanced_Computer_Systems_Analysis_Techniques-----
+1. 101552032	Qiana Zorn
+2. 100663044	Brant Buchholtz
+
+-----CS750 Real-Time_Computing_Systems-----
+1. 100936879	Roxann Lavender
+2. 100480879	Justina Brunell
+
+-----CS752 Advanced_Computer_Architecture_I-----
+1. 100531148	Carmela Taing
+2. 101119458	Efrain Quesinberry
+3. 100305535	Ressie Mcquillan
+4. 100987752	Kathrine Gearheart
+5. 100512253	Janay Smitherman
+6. 101248030	Melba Montejano
+
+-----CS753 Fault-Tolerant_Computing-----
+1. 101906468	Lucienne Raposo
+2. 101681473	Lettie Searfoss
+3. 101132668	Magan Harless
+4. 100153088	Arla Hauptman
+5. 100294752	Awilda Rumore
+6. 100806418	Sha Syring
+7. 100625970	Trenton Wagers
+
+-----CS755 VLSI_Systems_Design-----
+1. 100807673	Meaghan Babineaux
+2. 100353788	Alisa Vogel
+3. 100381204	Lionel Bailer
+4. 101856855	Kristopher Heavner
+5. 101324074	Isabella Schrick
+6. 100596926	Donna Cazarez
+7. 100489697	Caren Batista
+8. 101402264	Fredricka Kwiecien
+
+-----CS756 Computer-Aided_Design_for_VLSI-----
+1. 101029124	Arturo Schrader
+2. 100452307	Raguel Baltimore
+3. 100046484	Alane Brogden
+
+-----CS757 Advanced_Computer_Architecture_II-----
+1. 101020498	Marybelle Reny
+2. 100449932	Venice Mahan
+3. 100381204	Lionel Bailer
+
+-----CS758 Advanced_Topics_in_Computer_Architecture-----
+1. 101286231	Shena Philipps
+2. 100305535	Ressie Mcquillan
+3. 100102150	Erwin Goupil
+
+-----CS759 High_Performance_Computing_for_Applications_in_Engineering-----
+1. 100604856	Hulda Schunk
+2. 100425772	Annalee Whitten
+3. 101552032	Qiana Zorn
+4. 101242025	Raylene Adams
+
+-----CS760 Machine_Learning-----
+1. 101402264	Fredricka Kwiecien
+2. 100793369	Freddy Marden
+3. 101457251	Maxima Chadburn
+4. 101424296	Anastacia Bergen
+
+-----CS761 Advanced_Machine_Learning-----
+1. 100376535	Leanne Ackermann
+2. 100950935	Teisha Nevius
+3. 100608301	Augustus Brandon
+4. 101617427	Florance Covin
+
+-----CS764 Topics_in_Database_Management_Systems-----
+1. 101928020	Natosha Trapani
+2. 100918772	Harold Charpentier
+3. 100625970	Trenton Wagers
+4. 100046484	Alane Brogden
+5. 101618499	Franchesca Cofer
+6. 101380878	Marybeth Gahagan
+7. 101495102	Johnna Beecroft
+
+-----CS766 Computer_Vision-----
+1. 101020498	Marybelle Reny
+2. 101445459	Candy Bowyer
+3. 101199932	Maxie Stolp
+4. 100913044	Melaine Messick
+5. 100604856	Hulda Schunk
+6. 101856855	Kristopher Heavner
+
+-----CS767 Computational_Methods_for_Medical_Image_Analysis-----
+1. 101911659	Lorie Lamarche
+2. 101248030	Melba Montejano
+3. 100512253	Janay Smitherman
+
+-----CS769 Advanced_Natural_Language_Processing-----
+1. 101402243	Essie Tell
+2. 100026593	Candance Minier
+3. 101135697	Lance Lawrie
+4. 100633885	Jada Sabala
+
+-----CS770 Human-Computer_Interaction-----
+1. 100732325	Adela Sheehy
+2. 100493286	Lorina Rosamond
+3. 101029124	Arturo Schrader
+4. 101457251	Maxima Chadburn
+
+-----CS776 Advanced_Bioinformatics-----
+
+-----CS777 Computer_Animation-----
+1. 101618499	Franchesca Cofer
+
+-----CS779 Rendering_Images_with_Computers-----
+1. 100305535	Ressie Mcquillan
+2. 100641033	Tatum Brooker
+3. 100663044	Brant Buchholtz
+4. 100604856	Hulda Schunk
+5. 100796321	Ashlee Cothern
+6. 100625970	Trenton Wagers
+7. 101402264	Fredricka Kwiecien
+8. 101519965	Valene Hazzard
+
+-----CS780 Robot_Motion_Planning-----
+1. 100433819	Bridgette Talley
+2. 100721849	Waylon Moctezuma
+3. 101402264	Fredricka Kwiecien
+4. 101353321	Alba Messer
+5. 100425772	Annalee Whitten
+6. 101424296	Anastacia Bergen
+
+-----CS784 Data_Models_and_Languages-----
+1. 101521796	Cleveland Getman
+2. 101324074	Isabella Schrick
+3. 100633885	Jada Sabala
+
+-----CS787 Advanced_Algorithms_and_Data_Structures-----
+1. 100633885	Jada Sabala
+2. 100480879	Justina Brunell
+3. 101424296	Anastacia Bergen
+
+-----CS790 Masters_Thesis-----
+1. 101119458	Efrain Quesinberry
+2. 101763383	Lina Graziani
+3. 101965300	Antone Bruggeman
+
+-----CS799 Masters_Research-----
+1. 101402264	Fredricka Kwiecien
+2. 100816823	Jeannine Koehl
+
+-----CS809 Mathematical_Techniques_for_Analysis_of_Algorithms-----
+1. 101564229	Temple Eidt
+
+-----CS812 Arithmetic_Algorithms-----
+1. 100449932	Venice Mahan
+
+-----CS830 Randomness_in_Computation-----
+1. 101280873	Hong Aarons
+2. 101208270	Dick Speakman
+3. 100305535	Ressie Mcquillan
+4. 101649081	Foster Bryne
+
+-----CS837 Topics_in_Numerical_Analysis-----
+1. 100936879	Roxann Lavender
+2. 101171754	Ursula Piotrowski
+3. 100732325	Adela Sheehy
+4. 101097819	Macie Blanche
+5. 100625970	Trenton Wagers
+
+-----CS838 Topics_in_Computing-----
+1. 101552552	Stephani Monzon
+2. 100995443	Leann Maloney
+
+-----CS841 Computational_Cognitive_Science-----
+1. 101209080	Pam Spindler
+2. 101388914	Nella Marlow
+3. 100700457	Chante Dubiel
+4. 100300075	Kandy Sick
+5. 101617427	Florance Covin
+6. 100445471	Laquita Freedman
+7. 100987752	Kathrine Gearheart
+8. 100803370	Ebony Triana
+
+-----CS880 Topics_in_Theoretical_Computer_Science-----
+1. 100721849	Waylon Moctezuma
+
+-----CS887 Approximation_Theory-----
+1. 101366400	Shonda Giancola
+2. 100146325	Vickey Chesley
+
+-----CS899 Pre-Dissertator_Research-----
+1. 101519965	Valene Hazzard
+2. 100803370	Ebony Triana
+3. 101495102	Johnna Beecroft
+4. 100796321	Ashlee Cothern
+5. 100681240	Magaret Espy
+6. 100884068	Cecile Bourget
+
+-----CS900 Advanced_Seminar_in_Computer_Science-----
+1. 100806418	Sha Syring
+2. 100681240	Magaret Espy
+3. 101457251	Maxima Chadburn
+4. 101965300	Antone Bruggeman
+5. 100404580	Dortha Trimmer
+
+-----CS915 Computation_and_Informatics_in_Biology_and_Medicine-----
+1. 101521796	Cleveland Getman
+2. 100913044	Melaine Messick
+3. 100883322	Salome Mcconnell
+
+-----CS990 Dissertation-----
+1. 101856855	Kristopher Heavner
+2. 100512253	Janay Smitherman
+3. 100102150	Erwin Goupil
+
+-----CS999 Dissertator_Research-----
+1. 100604856	Hulda Schunk
 

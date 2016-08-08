@@ -49,11 +49,7 @@ public class Course
 			classCount = 0;
 		}
 
-//	public void readQueue(){
-//		for(int i = 0; i < registrationQueue.size(); i++){
-//			System.out.println(registrationQueue.dequeue());
-//		}
-//	}
+
 	/**
 	 * Creates a new PriorityqueueItem - with appropriate priority(coins) and
 	 * this student in the item's queue. Add this item to the registrationQueue.
@@ -103,19 +99,25 @@ public class Course
 		}
 
 		}
-
+	/**
+	 * returns the course name
+	 */
 	public String getCourseName()
 		{
 	
 		return this.name;
 		}
-
+	/**
+	 * returns the course code
+	 */
 	public String getCourseCode()
 		{
 		
 		return this.courseCode;
 		}
-
+	/**
+	 * returns the course roster
+	 */
 	public List<Student> getCourseRegister()
 		{
 				return this.courseRoster;

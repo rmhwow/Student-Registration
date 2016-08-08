@@ -1,90 +1,729 @@
------101101967 Nella Marlow-----
+-----101388914 Nella Marlow-----
+1. CS302	Introduction_to_Programming
+2. CS536	Introduction_to_Programming_Languages_and_Compilers
+3. CS726	Nonlinear_Optimization_I
+4. CS841	Computational_Cognitive_Science
+
+-----101324074 Isabella Schrick-----
+1. CS701	Programming_Languages_and_Compilers
+2. CS717	Numerical_Functional_Analysis
+3. CS755	VLSI_Systems_Design
+4. CS784	Data_Models_and_Languages
+
+-----100026593 Candance Minier-----
+1. CS301	Introduction_to_Data_Programming
+2. CS723	Dynamic_Programming_and_Associated_Topics
+3. CS769	Advanced_Natural_Language_Processing
+
+-----101420297 Sonny Beamon-----
+
+-----101600702 Harry Wall-----
+1. CS250	Digital_Society:_The_Impact_of_Computers_and_Computer_Technology
+2. CS425	Introduction_to_Combinatorial_Optimization
+3. CS533	Image_Processing
+4. CS682	Senior_Honors_Thesis_(682)
+5. CS727	Convex_Analysis
+
+-----101389984 Orville Gay-----
+1. CS547	Computer_Systems_Modeling_Fundamentals
+2. CS691	Senior_Thesis_(691)
+3. CS692	Senior_Thesis_(692)
+4. CS720	Integer_Programming
+
+-----100305535 Ressie Mcquillan-----
+1. CS250	Digital_Society:_The_Impact_of_Computers_and_Computer_Technology
+2. CS752	Advanced_Computer_Architecture_I
+3. CS758	Advanced_Topics_in_Computer_Architecture
+4. CS779	Rendering_Images_with_Computers
+5. CS830	Randomness_in_Computation
+
+-----101993173 Inge Tolleson-----
+1. CS525	Linear_Programming_Methods
+2. CS526	Advanced_Linear_Programming
+3. CS533	Image_Processing
+4. CS692	Senior_Thesis_(692)
+5. CS720	Integer_Programming
+6. CS733	Computational_Methods_for_Large_Sparse_Systems
+
+-----101290722 Yasmin Tinnin-----
+1. CS475	Introduction_to_Combinatorics
+2. CS534	Computational_Photography
+3. CS737	Computer_System_Performance_Evaluation_and_Modeling
+
+-----100489697 Caren Batista-----
+1. CS301	Introduction_to_Data_Programming
+2. CS564	Database_Management_Systems:_Design_and_Implementation
+3. CS640	Introduction_to_Computer_Networks
+4. CS699	Directed_Study
+5. CS755	VLSI_Systems_Design
+
+-----100493286 Lorina Rosamond-----
+1. CS525	Linear_Programming_Methods
+2. CS731	Advanced_Artificial_Intelligence
+3. CS770	Human-Computer_Interaction
+
+-----100376535 Leanne Ackermann-----
+1. CS520	Introduction_to_Theory_of_Computing
+2. CS558	Introduction_to_Computational_Geometry
+3. CS761	Advanced_Machine_Learning
+
+-----101171754 Ursula Piotrowski-----
+1. CS539	Introduction_to_Artificial_Neural_Networks_and_Fuzzy_Systems
+2. CS545	Natural_Language_and_the_Computer
+3. CS719	Stochastic_Programming
+4. CS740	Advanced_Computer_Networks
+5. CS837	Topics_in_Numerical_Analysis
+
+-----100859562 Loren Jayne-----
+1. CS310	Problem_Solving_using_Computers
+2. CS719	Stochastic_Programming
+3. CS737	Computer_System_Performance_Evaluation_and_Modeling
+
+-----100936879 Roxann Lavender-----
+1. CS369	Web_Programming
+2. CS407	Foundations_of_Mobile_Systems_and_Applications
+3. CS750	Real-Time_Computing_Systems
+4. CS837	Topics_in_Numerical_Analysis
+
+-----100950935 Teisha Nevius-----
+1. CS369	Web_Programming
+2. CS564	Database_Management_Systems:_Design_and_Implementation
+3. CS740	Advanced_Computer_Networks
+4. CS761	Advanced_Machine_Learning
+
+-----101029124 Arturo Schrader-----
+1. CS533	Image_Processing
+2. CS699	Directed_Study
+3. CS756	Computer-Aided_Design_for_VLSI
+4. CS770	Human-Computer_Interaction
+
+-----100480879 Justina Brunell-----
+1. CS506	Software_Engineering
+2. CS692	Senior_Thesis_(692)
+3. CS720	Integer_Programming
+4. CS750	Real-Time_Computing_Systems
+5. CS787	Advanced_Algorithms_and_Data_Structures
+
+-----100433819 Bridgette Talley-----
+1. CS578	Contest-Level_Programming
+2. CS737	Computer_System_Performance_Evaluation_and_Modeling
+3. CS780	Robot_Motion_Planning
+
+-----100918772 Harold Charpentier-----
+1. CS310	Problem_Solving_using_Computers
+2. CS692	Senior_Thesis_(692)
+3. CS710	Computational_Complexity
+4. CS764	Topics_in_Database_Management_Systems
+
+-----100913044 Melaine Messick-----
+1. CS354	Machine_Organization_and_Programming
+2. CS367	Introduction_to_Data_Structures
+3. CS506	Software_Engineering
+4. CS766	Computer_Vision
+5. CS915	Computation_and_Informatics_in_Biology_and_Medicine
+
+-----101366400 Shonda Giancola-----
+1. CS635	Tools_and_Environments_for_Optimization
+2. CS717	Numerical_Functional_Analysis
+3. CS733	Computational_Methods_for_Large_Sparse_Systems
+4. CS887	Approximation_Theory
+
+-----101565301 Sun Jester-----
+1. CS525	Linear_Programming_Methods
+2. CS526	Advanced_Linear_Programming
+3. CS567	Medical_Image_Analysis
+
+-----101519965 Valene Hazzard-----
+1. CS559	Computer_Graphics
+2. CS723	Dynamic_Programming_and_Associated_Topics
+3. CS779	Rendering_Images_with_Computers
+4. CS899	Pre-Dissertator_Research
+
+-----100404580 Dortha Trimmer-----
+1. CS534	Computational_Photography
+2. CS552	Introduction_to_Computer_Architecture
+3. CS701	Programming_Languages_and_Compilers
+4. CS704	Principles_of_Programming_Languages
+5. CS900	Advanced_Seminar_in_Computer_Science
+
+-----101286231 Shena Philipps-----
+1. CS402	Introducing_Computer_Science_to_K-12_Students
+2. CS537	Introduction_to_Operating_Systems
+3. CS758	Advanced_Topics_in_Computer_Architecture
+
+-----100381204 Lionel Bailer-----
+1. CS558	Introduction_to_Computational_Geometry
+2. CS640	Introduction_to_Computer_Networks
+3. CS642	Introduction_to_Information_Security
+4. CS755	VLSI_Systems_Design
+5. CS757	Advanced_Computer_Architecture_II
+
+-----100106152 Florence Whang-----
+
+-----100721849 Waylon Moctezuma-----
+1. CS304	WES-CS_Group_Meeting
+2. CS540	Introduction_to_Artificial_Intelligence
+3. CS723	Dynamic_Programming_and_Associated_Topics
+4. CS780	Robot_Motion_Planning
+5. CS880	Topics_in_Theoretical_Computer_Science
+
+-----100153088 Arla Hauptman-----
+1. CS252	Introduction_to_Computer_Engineering
+2. CS367	Introduction_to_Data_Structures
+3. CS407	Foundations_of_Mobile_Systems_and_Applications
+4. CS753	Fault-Tolerant_Computing
+
+-----100512253 Janay Smitherman-----
+1. CS252	Introduction_to_Computer_Engineering
+2. CS536	Introduction_to_Programming_Languages_and_Compilers
+3. CS736	Advanced_Operating_Systems
+4. CS752	Advanced_Computer_Architecture_I
+5. CS767	Computational_Methods_for_Medical_Image_Analysis
+6. CS990	Dissertation
+
+-----100806418 Sha Syring-----
+1. CS704	Principles_of_Programming_Languages
+2. CS753	Fault-Tolerant_Computing
+3. CS900	Advanced_Seminar_in_Computer_Science
+
+-----101462529 Annamaria Capra-----
+1. CS354	Machine_Organization_and_Programming
+2. CS524	Introduction_to_Optimization
+3. CS699	Directed_Study
+4. CS726	Nonlinear_Optimization_I
+
+-----100924197 Lelia Carrales-----
+1. CS301	Introduction_to_Data_Programming
+2. CS710	Computational_Complexity
+3. CS728	Integer_Optimization
+4. CS731	Advanced_Artificial_Intelligence
+
+-----100732325 Adela Sheehy-----
+1. CS302	Introduction_to_Programming
+2. CS515	Introduction_to_Splines_and_Wavelets
+3. CS692	Senior_Thesis_(692)
+4. CS770	Human-Computer_Interaction
+5. CS837	Topics_in_Numerical_Analysis
+
+-----101928020 Natosha Trapani-----
+1. CS302	Introduction_to_Programming
+2. CS537	Introduction_to_Operating_Systems
+3. CS727	Convex_Analysis
+4. CS764	Topics_in_Database_Management_Systems
+
+-----100987752 Kathrine Gearheart-----
+1. CS570	Introduction_to_Human-Computer_Interaction
+2. CS726	Nonlinear_Optimization_I
+3. CS752	Advanced_Computer_Architecture_I
+4. CS841	Computational_Cognitive_Science
+
+-----101162421 Nu Dobyns-----
+1. CS252	Introduction_to_Computer_Engineering
+2. CS545	Natural_Language_and_the_Computer
+3. CS547	Computer_Systems_Modeling_Fundamentals
+4. CS635	Tools_and_Environments_for_Optimization
+
+-----100452307 Raguel Baltimore-----
+1. CS407	Foundations_of_Mobile_Systems_and_Applications
+2. CS537	Introduction_to_Operating_Systems
+3. CS756	Computer-Aided_Design_for_VLSI
+
+-----101602270 Pauline Brittian-----
+1. CS352	Digital_Systems_Fundamentals
+2. CS435	Introduction_to_Cryptography
+3. CS533	Image_Processing
+4. CS536	Introduction_to_Programming_Languages_and_Compilers
+5. CS539	Introduction_to_Artificial_Neural_Networks_and_Fuzzy_Systems
+
+-----100700425 Kyla Kingrey-----
+1. CS412	Introduction_to_Numerical_Methods
+2. CS558	Introduction_to_Computational_Geometry
+3. CS570	Introduction_to_Human-Computer_Interaction
+4. CS638	Undergraduate_Topics_in_Computing
+5. CS707	Mobile_and_Wireless_Networking
+
+-----101610801 Alix Sidle-----
+
+-----101906468 Lucienne Raposo-----
+1. CS304	WES-CS_Group_Meeting
+2. CS520	Introduction_to_Theory_of_Computing
+3. CS753	Fault-Tolerant_Computing
+
+-----100625970 Trenton Wagers-----
+1. CS536	Introduction_to_Programming_Languages_and_Compilers
+2. CS753	Fault-Tolerant_Computing
+3. CS764	Topics_in_Database_Management_Systems
+4. CS779	Rendering_Images_with_Computers
+5. CS837	Topics_in_Numerical_Analysis
+
+-----101681473 Lettie Searfoss-----
+1. CS371	Technology_of_Computer-Based_Business_Systems
+2. CS753	Fault-Tolerant_Computing
+
+-----101617427 Florance Covin-----
+1. CS367	Introduction_to_Data_Structures
+2. CS425	Introduction_to_Combinatorial_Optimization
+3. CS577	Introduction_to_Algorithms
+4. CS761	Advanced_Machine_Learning
+5. CS841	Computational_Cognitive_Science
+
+-----101552552 Stephani Monzon-----
+1. CS425	Introduction_to_Combinatorial_Optimization
+2. CS552	Introduction_to_Computer_Architecture
+3. CS730	Nonlinear_Optimization_II
+4. CS838	Topics_in_Computing
+
+-----100294752 Awilda Rumore-----
+1. CS250	Digital_Society:_The_Impact_of_Computers_and_Computer_Technology
+2. CS691	Senior_Thesis_(691)
+3. CS753	Fault-Tolerant_Computing
+
+-----101552032 Qiana Zorn-----
+1. CS715	Methods_of_Computational_Mathematics_II
+2. CS727	Convex_Analysis
+3. CS737	Computer_System_Performance_Evaluation_and_Modeling
+4. CS747	Advanced_Computer_Systems_Analysis_Techniques
+5. CS759	High_Performance_Computing_for_Applications_in_Engineering
+
+-----101097819 Macie Blanche-----
+1. CS367	Introduction_to_Data_Structures
+2. CS570	Introduction_to_Human-Computer_Interaction
+3. CS699	Directed_Study
+4. CS720	Integer_Programming
+5. CS737	Computer_System_Performance_Evaluation_and_Modeling
+6. CS837	Topics_in_Numerical_Analysis
+
+-----100049450 Alejandrina Berkowitz-----
+1. CS513	Numerical_Linear_Algebra
+2. CS635	Tools_and_Environments_for_Optimization
+3. CS730	Nonlinear_Optimization_II
+
+-----100017306 Frances Dotson-----
+1. CS525	Linear_Programming_Methods
+2. CS552	Introduction_to_Computer_Architecture
+3. CS635	Tools_and_Environments_for_Optimization
+4. CS704	Principles_of_Programming_Languages
+5. CS715	Methods_of_Computational_Mathematics_II
+
+-----100807673 Meaghan Babineaux-----
+1. CS475	Introduction_to_Combinatorics
+2. CS533	Image_Processing
+3. CS755	VLSI_Systems_Design
+
+-----100816823 Jeannine Koehl-----
+1. CS475	Introduction_to_Combinatorics
+2. CS640	Introduction_to_Computer_Networks
+3. CS728	Integer_Optimization
+4. CS733	Computational_Methods_for_Large_Sparse_Systems
+5. CS799	Masters_Research
+
+-----101380878 Marybeth Gahagan-----
+1. CS412	Introduction_to_Numerical_Methods
+2. CS534	Computational_Photography
+3. CS736	Advanced_Operating_Systems
+4. CS764	Topics_in_Database_Management_Systems
+
+-----100995443 Leann Maloney-----
+1. CS520	Introduction_to_Theory_of_Computing
+2. CS576	Introduction_to_Bioinformatics
+3. CS730	Nonlinear_Optimization_II
+4. CS838	Topics_in_Computing
+
+-----100793369 Freddy Marden-----
+1. CS354	Machine_Organization_and_Programming
+2. CS407	Foundations_of_Mobile_Systems_and_Applications
+3. CS719	Stochastic_Programming
+4. CS760	Machine_Learning
+
+-----101208270 Dick Speakman-----
+1. CS270	Fundamentals_of_Human-Computer_Interaction
+2. CS720	Integer_Programming
+3. CS830	Randomness_in_Computation
+
+-----101020498 Marybelle Reny-----
+1. CS740	Advanced_Computer_Networks
+2. CS757	Advanced_Computer_Architecture_II
+3. CS766	Computer_Vision
+
+-----100604856 Hulda Schunk-----
+1. CS475	Introduction_to_Combinatorics
+2. CS532	Theory_and_Applications_of_Pattern_Recognition
+3. CS759	High_Performance_Computing_for_Applications_in_Engineering
+4. CS766	Computer_Vision
+5. CS779	Rendering_Images_with_Computers
+6. CS999	Dissertator_Research
+
+-----100046484 Alane Brogden-----
+1. CS407	Foundations_of_Mobile_Systems_and_Applications
+2. CS576	Introduction_to_Bioinformatics
+3. CS681	Senior_Honors_Thesis_(681)
+4. CS703	Advanced_Topics_in_Programming_Languages_and_Compilers
+5. CS756	Computer-Aided_Design_for_VLSI
+6. CS764	Topics_in_Database_Management_Systems
+
+-----100700457 Chante Dubiel-----
+1. CS534	Computational_Photography
+2. CS570	Introduction_to_Human-Computer_Interaction
+3. CS704	Principles_of_Programming_Languages
+4. CS841	Computational_Cognitive_Science
+
+-----101763383 Lina Graziani-----
+1. CS252	Introduction_to_Computer_Engineering
+2. CS559	Computer_Graphics
+3. CS638	Undergraduate_Topics_in_Computing
+4. CS790	Masters_Thesis
+
+-----101911659 Lorie Lamarche-----
+1. CS733	Computational_Methods_for_Large_Sparse_Systems
+2. CS737	Computer_System_Performance_Evaluation_and_Modeling
+3. CS767	Computational_Methods_for_Medical_Image_Analysis
+
+-----101711162 King Siegler-----
+1. CS367	Introduction_to_Data_Structures
+2. CS471	Introduction_to_Computational_Statistics
+3. CS525	Linear_Programming_Methods
+4. CS691	Senior_Thesis_(691)
+
+-----100596926 Donna Cazarez-----
+1. CS352	Digital_Systems_Fundamentals
+2. CS525	Linear_Programming_Methods
+3. CS727	Convex_Analysis
+4. CS731	Advanced_Artificial_Intelligence
+5. CS755	VLSI_Systems_Design
+
+-----100161401 Deangelo Mullikin-----
+1. CS352	Digital_Systems_Fundamentals
+2. CS536	Introduction_to_Programming_Languages_and_Compilers
+3. CS707	Mobile_and_Wireless_Networking
+4. CS737	Computer_System_Performance_Evaluation_and_Modeling
+
+-----101161816 Rosanne Semien-----
+1. CS310	Problem_Solving_using_Computers
+2. CS533	Image_Processing
+3. CS682	Senior_Honors_Thesis_(682)
+
+-----101242025 Raylene Adams-----
+1. CS407	Foundations_of_Mobile_Systems_and_Applications
+2. CS532	Theory_and_Applications_of_Pattern_Recognition
+3. CS719	Stochastic_Programming
+4. CS759	High_Performance_Computing_for_Applications_in_Engineering
+
+-----101899547 Louetta Daw-----
+1. CS578	Contest-Level_Programming
+2. CS703	Advanced_Topics_in_Programming_Languages_and_Compilers
+3. CS714	Methods_of_Computational_Mathematics_I
+4. CS727	Convex_Analysis
+
+-----101649081 Foster Bryne-----
+1. CS301	Introduction_to_Data_Programming
+2. CS830	Randomness_in_Computation
+
+-----100422871 Carolann Delisle-----
+1. CS425	Introduction_to_Combinatorial_Optimization
+2. CS532	Theory_and_Applications_of_Pattern_Recognition
+3. CS570	Introduction_to_Human-Computer_Interaction
+4. CS720	Integer_Programming
+
+-----100353788 Alisa Vogel-----
+1. CS304	WES-CS_Group_Meeting
+2. CS733	Computational_Methods_for_Large_Sparse_Systems
+3. CS737	Computer_System_Performance_Evaluation_and_Modeling
+4. CS755	VLSI_Systems_Design
+
+-----100300075 Kandy Sick-----
+1. CS310	Problem_Solving_using_Computers
+2. CS525	Linear_Programming_Methods
+3. CS564	Database_Management_Systems:_Design_and_Implementation
+4. CS841	Computational_Cognitive_Science
+
+-----101132668 Magan Harless-----
+1. CS368	Learning_a_New_Programming_Language
+2. CS642	Introduction_to_Information_Security
+3. CS753	Fault-Tolerant_Computing
+
+-----100633885 Jada Sabala-----
+1. CS298	Directed_Study_in_Computer_Science
+2. CS769	Advanced_Natural_Language_Processing
+3. CS784	Data_Models_and_Languages
+4. CS787	Advanced_Algorithms_and_Data_Structures
+
+-----100796321 Ashlee Cothern-----
+1. CS524	Introduction_to_Optimization
+2. CS559	Computer_Graphics
+3. CS570	Introduction_to_Human-Computer_Interaction
+4. CS704	Principles_of_Programming_Languages
+5. CS779	Rendering_Images_with_Computers
+6. CS899	Pre-Dissertator_Research
+
+-----101424296 Anastacia Bergen-----
+1. CS304	WES-CS_Group_Meeting
+2. CS719	Stochastic_Programming
+3. CS723	Dynamic_Programming_and_Associated_Topics
+4. CS760	Machine_Learning
+5. CS780	Robot_Motion_Planning
+6. CS787	Advanced_Algorithms_and_Data_Structures
+
+-----100531148 Carmela Taing-----
+1. CS679	Computer_Game_Technology
+2. CS723	Dynamic_Programming_and_Associated_Topics
+3. CS752	Advanced_Computer_Architecture_I
+
+-----101495102 Johnna Beecroft-----
+1. CS536	Introduction_to_Programming_Languages_and_Compilers
+2. CS558	Introduction_to_Computational_Geometry
+3. CS733	Computational_Methods_for_Large_Sparse_Systems
+4. CS764	Topics_in_Database_Management_Systems
+5. CS899	Pre-Dissertator_Research
+
+-----101951689 Craig Cashman-----
+1. CS202	Introduction_to_Computation
+2. CS250	Digital_Society:_The_Impact_of_Computers_and_Computer_Technology
+3. CS371	Technology_of_Computer-Based_Business_Systems
+4. CS536	Introduction_to_Programming_Languages_and_Compilers
+
+-----101248030 Melba Montejano-----
+1. CS514	Numerical_Analysis
+2. CS532	Theory_and_Applications_of_Pattern_Recognition
+3. CS714	Methods_of_Computational_Mathematics_I
+4. CS752	Advanced_Computer_Architecture_I
+5. CS767	Computational_Methods_for_Medical_Image_Analysis
+
+-----100012668 Antony Eckard-----
+1. CS559	Computer_Graphics
+2. CS715	Methods_of_Computational_Mathematics_II
+3. CS719	Stochastic_Programming
+4. CS726	Nonlinear_Optimization_I
+
+-----101618499 Franchesca Cofer-----
+1. CS540	Introduction_to_Artificial_Intelligence
+2. CS635	Tools_and_Environments_for_Optimization
+3. CS731	Advanced_Artificial_Intelligence
+4. CS764	Topics_in_Database_Management_Systems
+5. CS777	Computer_Animation
+
+-----101209080 Pam Spindler-----
+1. CS719	Stochastic_Programming
+2. CS841	Computational_Cognitive_Science
+
+-----100681240 Magaret Espy-----
+1. CS899	Pre-Dissertator_Research
+2. CS900	Advanced_Seminar_in_Computer_Science
+
+-----100641033 Tatum Brooker-----
+1. CS354	Machine_Organization_and_Programming
+2. CS435	Introduction_to_Cryptography
+3. CS545	Natural_Language_and_the_Computer
+4. CS576	Introduction_to_Bioinformatics
+5. CS779	Rendering_Images_with_Computers
+
+-----101457251 Maxima Chadburn-----
+1. CS707	Mobile_and_Wireless_Networking
+2. CS760	Machine_Learning
+3. CS770	Human-Computer_Interaction
+4. CS900	Advanced_Seminar_in_Computer_Science
+
+-----101199932 Maxie Stolp-----
+1. CS354	Machine_Organization_and_Programming
+2. CS537	Introduction_to_Operating_Systems
+3. CS692	Senior_Thesis_(692)
+4. CS766	Computer_Vision
+
+-----101280873 Hong Aarons-----
+1. CS471	Introduction_to_Computational_Statistics
+2. CS513	Numerical_Linear_Algebra
+3. CS703	Advanced_Topics_in_Programming_Languages_and_Compilers
+4. CS830	Randomness_in_Computation
+
+-----101182236 Lorinda Powell-----
+1. CS301	Introduction_to_Data_Programming
+2. CS506	Software_Engineering
+3. CS577	Introduction_to_Algorithms
+
+-----101119458 Efrain Quesinberry-----
+1. CS532	Theory_and_Applications_of_Pattern_Recognition
+2. CS726	Nonlinear_Optimization_I
+3. CS731	Advanced_Artificial_Intelligence
+4. CS752	Advanced_Computer_Architecture_I
+5. CS790	Masters_Thesis
+
+-----100883322 Salome Mcconnell-----
+1. CS304	WES-CS_Group_Meeting
+2. CS354	Machine_Organization_and_Programming
+3. CS520	Introduction_to_Theory_of_Computing
+4. CS740	Advanced_Computer_Networks
+5. CS915	Computation_and_Informatics_in_Biology_and_Medicine
+
+-----101402264 Fredricka Kwiecien-----
+1. CS691	Senior_Thesis_(691)
+2. CS755	VLSI_Systems_Design
+3. CS760	Machine_Learning
+4. CS779	Rendering_Images_with_Computers
+5. CS780	Robot_Motion_Planning
+6. CS799	Masters_Research
+
+-----100425772 Annalee Whitten-----
+1. CS371	Technology_of_Computer-Based_Business_Systems
+2. CS435	Introduction_to_Cryptography
+3. CS733	Computational_Methods_for_Large_Sparse_Systems
+4. CS759	High_Performance_Computing_for_Applications_in_Engineering
+5. CS780	Robot_Motion_Planning
+
+-----100559875 Raeann Arai-----
+1. CS525	Linear_Programming_Methods
+2. CS540	Introduction_to_Artificial_Intelligence
+3. CS679	Computer_Game_Technology
+4. CS703	Advanced_Topics_in_Programming_Languages_and_Compilers
+
+-----100884068 Cecile Bourget-----
+1. CS532	Theory_and_Applications_of_Pattern_Recognition
+2. CS714	Methods_of_Computational_Mathematics_I
+3. CS737	Computer_System_Performance_Evaluation_and_Modeling
+4. CS899	Pre-Dissertator_Research
+
+-----101353321 Alba Messer-----
+1. CS539	Introduction_to_Artificial_Neural_Networks_and_Fuzzy_Systems
+2. CS552	Introduction_to_Computer_Architecture
+3. CS558	Introduction_to_Computational_Geometry
+4. CS780	Robot_Motion_Planning
+
+-----101100609 Hai Salem-----
+1. CS270	Fundamentals_of_Human-Computer_Interaction
+2. CS564	Database_Management_Systems:_Design_and_Implementation
+3. CS737	Computer_System_Performance_Evaluation_and_Modeling
+
+-----101807147 Pearle Mendieta-----
+1. CS352	Digital_Systems_Fundamentals
+2. CS536	Introduction_to_Programming_Languages_and_Compilers
+
+-----100102150 Erwin Goupil-----
+1. CS425	Introduction_to_Combinatorial_Optimization
+2. CS532	Theory_and_Applications_of_Pattern_Recognition
+3. CS567	Medical_Image_Analysis
+4. CS635	Tools_and_Environments_for_Optimization
+5. CS758	Advanced_Topics_in_Computer_Architecture
+6. CS990	Dissertation
+
+-----101521796 Cleveland Getman-----
+1. CS640	Introduction_to_Computer_Networks
+2. CS784	Data_Models_and_Languages
+3. CS915	Computation_and_Informatics_in_Biology_and_Medicine
+
+-----101445459 Candy Bowyer-----
+1. CS367	Introduction_to_Data_Structures
+2. CS576	Introduction_to_Bioinformatics
+3. CS635	Tools_and_Environments_for_Optimization
+4. CS733	Computational_Methods_for_Large_Sparse_Systems
+5. CS766	Computer_Vision
+
+-----100987668 Liana Maloney-----
+1. CS570	Introduction_to_Human-Computer_Interaction
+2. CS681	Senior_Honors_Thesis_(681)
+3. CS727	Convex_Analysis
+
+-----101310464 Eric Notaro-----
+1. CS310	Problem_Solving_using_Computers
+2. CS402	Introducing_Computer_Science_to_K-12_Students
+3. CS536	Introduction_to_Programming_Languages_and_Compilers
+4. CS681	Senior_Honors_Thesis_(681)
+
+-----101564229 Temple Eidt-----
+1. CS252	Introduction_to_Computer_Engineering
+2. CS520	Introduction_to_Theory_of_Computing
+3. CS737	Computer_System_Performance_Evaluation_and_Modeling
+4. CS809	Mathematical_Techniques_for_Analysis_of_Algorithms
+
+-----101135697 Lance Lawrie-----
 1. CS302	Introduction_to_Programming
 2. CS304	WES-CS_Group_Meeting
-3. CS310	Problem_Solving_using_Computers
-4. CS352	Digital_Systems_Fundamentals
+3. CS540	Introduction_to_Artificial_Intelligence
+4. CS739	Distributed_Systems
+5. CS769	Advanced_Natural_Language_Processing
 
------100419185 Isabella Schrick-----
+-----100803370 Ebony Triana-----
+1. CS352	Digital_Systems_Fundamentals
+2. CS704	Principles_of_Programming_Languages
+3. CS841	Computational_Cognitive_Science
+4. CS899	Pre-Dissertator_Research
+
+-----101368526 Fatima Chiasson-----
+1. CS354	Machine_Organization_and_Programming
+2. CS513	Numerical_Linear_Algebra
+3. CS537	Introduction_to_Operating_Systems
+4. CS545	Natural_Language_and_the_Computer
+5. CS547	Computer_Systems_Modeling_Fundamentals
+6. CS578	Contest-Level_Programming
+
+-----100445471 Laquita Freedman-----
+1. CS252	Introduction_to_Computer_Engineering
+2. CS352	Digital_Systems_Fundamentals
+3. CS515	Introduction_to_Splines_and_Wavelets
+4. CS638	Undergraduate_Topics_in_Computing
+5. CS841	Computational_Cognitive_Science
+
+-----101597757 Yajaira Gerstner-----
 1. CS302	Introduction_to_Programming
-2. CS304	WES-CS_Group_Meeting
+2. CS371	Technology_of_Computer-Based_Business_Systems
+3. CS547	Computer_Systems_Modeling_Fundamentals
+4. CS642	Introduction_to_Information_Security
 
------100274094 Candance Minier-----
+-----101220486 Randall Hyde-----
+1. CS240	Introduction_to_Discrete_Mathematics
+2. CS369	Web_Programming
+3. CS513	Numerical_Linear_Algebra
+4. CS699	Directed_Study
+5. CS715	Methods_of_Computational_Mathematics_II
 
------101511131 Sonny Beamon-----
-1. CS302	Introduction_to_Programming
-2. CS304	WES-CS_Group_Meeting
+-----100277059 Abbey Saez-----
+1. CS407	Foundations_of_Mobile_Systems_and_Applications
+2. CS534	Computational_Photography
 
------100615393 Harry Wall-----
-1. CS302	Introduction_to_Programming
-2. CS304	WES-CS_Group_Meeting
+-----100608301 Augustus Brandon-----
+1. CS298	Directed_Study_in_Computer_Science
+2. CS514	Numerical_Analysis
+3. CS715	Methods_of_Computational_Mathematics_II
+4. CS727	Convex_Analysis
+5. CS737	Computer_System_Performance_Evaluation_and_Modeling
+6. CS761	Advanced_Machine_Learning
 
------101554327 Orville Gay-----
-1. CS302	Introduction_to_Programming
-2. CS304	WES-CS_Group_Meeting
-3. CS310	Problem_Solving_using_Computers
-4. CS352	Digital_Systems_Fundamentals
-5. CS354	Machine_Organization_and_Programming
-6. CS367	Introduction_to_Data_Structures
+-----101965300 Antone Bruggeman-----
+1. CS369	Web_Programming
+2. CS638	Undergraduate_Topics_in_Computing
+3. CS679	Computer_Game_Technology
+4. CS715	Methods_of_Computational_Mathematics_II
+5. CS790	Masters_Thesis
+6. CS900	Advanced_Seminar_in_Computer_Science
 
------101022333 Ressie Mcquillan-----
+-----100663044 Brant Buchholtz-----
+1. CS402	Introducing_Computer_Science_to_K-12_Students
+2. CS552	Introduction_to_Computer_Architecture
+3. CS567	Medical_Image_Analysis
+4. CS691	Senior_Thesis_(691)
+5. CS747	Advanced_Computer_Systems_Analysis_Techniques
+6. CS779	Rendering_Images_with_Computers
 
------100943226 Inge Tolleson-----
+-----100146325 Vickey Chesley-----
+1. CS576	Introduction_to_Bioinformatics
+2. CS635	Tools_and_Environments_for_Optimization
+3. CS727	Convex_Analysis
+4. CS739	Distributed_Systems
+5. CS740	Advanced_Computer_Networks
+6. CS887	Approximation_Theory
 
------100034058 Yasmin Tinnin-----
-1. CS302	Introduction_to_Programming
-2. CS304	WES-CS_Group_Meeting
-3. CS310	Problem_Solving_using_Computers
-4. CS352	Digital_Systems_Fundamentals
+-----101856855 Kristopher Heavner-----
+1. CS425	Introduction_to_Combinatorial_Optimization
+2. CS533	Image_Processing
+3. CS755	VLSI_Systems_Design
+4. CS766	Computer_Vision
+5. CS990	Dissertation
 
------100383243 Caren Batista-----
-1. CS302	Introduction_to_Programming
+-----100449932 Venice Mahan-----
+1. CS514	Numerical_Analysis
+2. CS703	Advanced_Topics_in_Programming_Languages_and_Compilers
+3. CS757	Advanced_Computer_Architecture_II
+4. CS812	Arithmetic_Algorithms
 
------101567904 Lorina Rosamond-----
-1. CS302	Introduction_to_Programming
-2. CS304	WES-CS_Group_Meeting
-3. CS310	Problem_Solving_using_Computers
-4. CS352	Digital_Systems_Fundamentals
-
------101443621 Leanne Ackermann-----
-1. CS302	Introduction_to_Programming
-2. CS304	WES-CS_Group_Meeting
-
------100986579 Ursula Piotrowski-----
-1. CS302	Introduction_to_Programming
-2. CS304	WES-CS_Group_Meeting
-3. CS310	Problem_Solving_using_Computers
-4. CS352	Digital_Systems_Fundamentals
-5. CS354	Machine_Organization_and_Programming
-6. CS367	Introduction_to_Data_Structures
-
------100834451 Loren Jayne-----
-1. CS302	Introduction_to_Programming
-2. CS304	WES-CS_Group_Meeting
-3. CS310	Problem_Solving_using_Computers
-4. CS352	Digital_Systems_Fundamentals
-5. CS354	Machine_Organization_and_Programming
-6. CS367	Introduction_to_Data_Structures
-
------101128036 Roxann Lavender-----
-
------101498009 Teisha Nevius-----
-
------100544691 Arturo Schrader-----
-1. CS302	Introduction_to_Programming
-2. CS304	WES-CS_Group_Meeting
-3. CS310	Problem_Solving_using_Computers
-
------100687484 Justina Brunell-----
-1. CS302	Introduction_to_Programming
-2. CS304	WES-CS_Group_Meeting
-3. CS310	Problem_Solving_using_Computers
-4. CS352	Digital_Systems_Fundamentals
-
------101362907 Bridgette Talley-----
-
------100331071 Harold Charpentier-----
-1. CS302	Introduction_to_Programming
-2. CS304	WES-CS_Group_Meeting
-3. CS310	Problem_Solving_using_Computers
-4. CS352	Digital_Systems_Fundamentals
+-----101402243 Essie Tell-----
+1. CS506	Software_Engineering
+2. CS726	Nonlinear_Optimization_I
+3. CS769	Advanced_Natural_Language_Processing
 

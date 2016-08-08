@@ -95,8 +95,6 @@ public class PriorityQueue<E> implements QueueADT<PriorityQueueItem<E>>
 				}
 			}
 		}
-		
-		// check it later
 		//if done is false, then increase the current size, assign the item to 
 		//the last index in the array and call percolateUp		
 		if(!done){
@@ -158,7 +156,7 @@ public class PriorityQueue<E> implements QueueADT<PriorityQueueItem<E>>
 	 */
 	public Iterator<PriorityQueueItem<E>> iterator()
 		{
-		// TODO write appropriate code - see PriortyQueueIterator constructor
+		// return new iterator
 		return new PriorityQueueIterator(this);
 		}
 
@@ -192,11 +190,9 @@ public class PriorityQueue<E> implements QueueADT<PriorityQueueItem<E>>
 		{
 		// Remove first element and save into a variable
 		PriorityQueueItem<E> temp = array[1];
-//		this might have to be currentSize -1 or +1
 		// Insert the last element into the first index
 		array[1] = array[currentSize];
-//		percolateDown(1);
-//		am I supposed to be using buildHeap? 	
+//		percolateDown(1);	
 		buildHeap();
 		//decrease the current size by one		
 		currentSize--;
@@ -235,7 +231,6 @@ public class PriorityQueue<E> implements QueueADT<PriorityQueueItem<E>>
 	 */
 	private void percolateDown(int hole)
 		{
-//		use left and right variables
 			boolean donedown = false;
 			//assign the parent to the hole index			
 			int parent = hole;
