@@ -1,14 +1,4 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Main Class File:  StudentCenter.java
-// File:             PriorityQueueIterator.java
-// Semester:         CS 367 Spring 2016
-//
-// Author:           Morgan O'Leary oleary4@wisc.edu
-// CS Login:         o-leary
-// Lecturer's Name:  Jim Skrentny
 
-//////////////////////////// 80 columns wide //////////////////////////////////
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 

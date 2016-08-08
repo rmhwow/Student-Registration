@@ -1,20 +1,8 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Main Class File:  StudentCenter.java
-// File:             PriorityQueueItem.java
-// Semester:         CS 367 Spring 2016
-//
-// Author:           Morgan O'Leary oleary4@wisc.edu
-// CS Login:         o-leary
-// Lecturer's Name:  Jim Skrentny
 
-//////////////////////////// 80 columns wide //////////////////////////////////
 /**
  * 
  * Class to represent object stored at every entry in the PriorityQueue. ie, The
  * internal node structure of {@link PriorityQueue}
- * 
- * @author CS367
  *
  * @param <E>
  *            the generic type of the data content stored in the list

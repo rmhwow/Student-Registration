@@ -1,16 +1,4 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Title:            Program 3
-// Files:            Queue.java,PriorityQueue.java, PriorityQueueIterator.java,
-//					 PriorityQueueItem.java, Course.java, StudentCenter.java						 
-// Semester:         CS 367 Spring 2016
-//
-// Author:           Morgan O'Leary
-// Email:            oleary4@wisc.edu
-// CS Login:         o-leary
-// Lecturer's Name:  Jim Skrentny
-//
-//////////////////////////// 80 columns wide //////////////////////////////////
+
 
 import java.io.File;
 import java.io.FileNotFoundException;

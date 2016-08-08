@@ -1,14 +1,4 @@
-///////////////////////////////////////////////////////////////////////////////
-//                   ALL STUDENTS COMPLETE THESE SECTIONS
-// Main Class File:  StudentCenter.java
-// File:             PriorityQueue.java
-// Semester:         CS 367 Spring 2016
-//
-// Author:           Morgan O'Leary oleary4@wisc.edu
-// CS Login:         o-leary
-// Lecturer's Name:  Jim Skrentny
 
-//////////////////////////// 80 columns wide //////////////////////////////////
 import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Iterator;
@@ -18,8 +8,6 @@ import java.util.NoSuchElementException;
  * PriorityQueue implemented as a Binary Heap backed by an array. Implements
  * QueueADT. Each entry in the PriorityQueue is of type PriorityQueueNode<E>.
  * First element is array[1]
- * 
- * @author CS367
  *
  * @param <E>
  */

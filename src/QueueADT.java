@@ -1,7 +1,7 @@
 /**
  * An ordered collection of items, where items are added to the rear
  * and removed from the front.
- * @author CS367
+
  *
  */
 public interface QueueADT<E> {
